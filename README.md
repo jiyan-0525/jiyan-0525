@@ -37,15 +37,9 @@
 
 ### 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jiyan-0525&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats-git-main-anurag90s.vercel.app/api?username=jiyan-0525&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats-git-main-anurag90s.vercel.app/api/top-langs/?username=jiyan-0525&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-</p> -->
 
 ---
 
