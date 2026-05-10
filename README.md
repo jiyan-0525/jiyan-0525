@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF¢er=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jiyan+%F0%9F%91%8B;Student+%40+42+Heilbronn" alt="Typing SVG" />
 </h1>
@@ -6,6 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jiyan-0525&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -45,4 +45,3 @@
 ---
 
 <p align="center">⚡ "Code is like humor. When you have to explain it, it's bad." </p>
-  
