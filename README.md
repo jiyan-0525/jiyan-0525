@@ -1,6 +1,6 @@
 <h1 align="center">
   <!---<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF¢er=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jiyan+%F0%9F%91%8B;Student+%40+42+Heilbronn" alt="Typing SVG" />--->
-    <img src="https://img.shields.io/badge/Hi%20there%2C%20I'm%20Jiyan%20👋-00F7FF?style=flat&logoColor=white" alt="Hi there, I'm Jiyan" />
+    <img src="https://img.shields.io/badge/Hi%20there%2C%20I'm%100Jiyan%100👋-00F7FF?style=flat&logoColor=white" alt="Hi there, I'm Jiyan" />
 </h1>
 
 <p align="center">
