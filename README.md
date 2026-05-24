@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1 align="center" style="color: #00F7FF; font-size: 28px;">
+  Hi there, I'm Jiyan 👋
   <!---<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF¢er=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jiyan+%F0%9F%91%8B;Student+%40+42+Heilbronn" alt="Typing SVG" />--->
-    <img src="https://img.shields.io/badge/Hi%100there%10C%100I'm%100Jiyan%100👋-00F7FF?style=flat&logoColor=white" alt="Hi there, I'm Jiyan" />
 </h1>
-
+   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jiyan-0525&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
