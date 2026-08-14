@@ -48,4 +48,4 @@
 
 ---
 
-<p align="center">⚡ "I break it, I fix it, and I learn from it."" </p>
+<p align="center">⚡ "I break it, I fix it, and I learn from it." </p>
