@@ -42,10 +42,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://github-readme-streak-stats-eight.vercel.app?user=jiyan-0525&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>
+</p> -->
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=jiyan-0525&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="160"
+  />
+</p>
 ---
 
 <p align="center">⚡ "I break it, I fix it, and I learn from it." </p>
