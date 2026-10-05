@@ -54,6 +54,10 @@ SQLAlchemy · SQLite
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
+**Observability**
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
 <!-- ![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white) -->
 <!-- ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white) -->
 <!-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) -->
