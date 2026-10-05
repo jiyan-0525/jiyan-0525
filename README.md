@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #00F7FF; font-size: 28px;">
   Hi there, I'm Jiyan 👋
-  <!---<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF¢er=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jiyan+%F0%9F%91%8B;Student+%40+42+Heilbronn[...]
+  <!---<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF¢er=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jiyan+%F0%9F%91%8B;Student+%40+42+Heilbronn" alt="Typing SVG" />--->
 </h1>
    
 <p align="center">
@@ -19,34 +19,6 @@
 ---
 
 ### 🛠 Tech Stack
-
-#### Languages
-
-Python · C · C++ · SQL · Bash
-
-#### Backend
-
-FastAPI · Uvicorn · REST APIs · Pydantic · PydanticAI
-
-#### Databases
-
-SQLAlchemy · SQLite
-
-#### Frontend
-
-React
-
-#### Testing
-
-Pytest
-
-#### DevOps
-
-Linux · Docker · Git · GitHub Actions · Cloud Deployment
-
-#### Observability
-
-OpenTelemetry
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -73,15 +45,3 @@ OpenTelemetry
 <p align="center">
  <img src="https://github-readme-streak-stats-eight.vercel.app?user=jiyan-0525&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
 </p>
-
-<!--<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=jiyan-0525&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    height="160"
-  />
-</p> -->
-
----
-
-<p align="center">⚡ "I break it, I fix it, and I learn from it." </p>
