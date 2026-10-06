@@ -11,8 +11,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Student at **42 Heilbronn** — learning through peer-to-peer coding
-- 💻 Currently working on C / C++ projects
+- 🎓 Student at **42 Heilbronn** — learning by Doing
+- 💻 Transitioning from low-level C/C++ to Python-driven backend and AI engineering
 - 🌱 Always learning, always building
 - 📍 Based in Heilbronn, Germany
 
