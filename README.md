@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Student at **42 Heilbronn** — learning by Doing
-- 💻 Transforming from C/C++ to Python backend and AI engineering
+- 💻 Transforming from C/C++ to Python AI engineering
 - 🌱 Always learning, always building
 - 📍 Based in Heilbronn, Germany
 
