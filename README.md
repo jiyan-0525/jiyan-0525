@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="assets/avatar.svg" width="36" height="36" alt="" /> About me
+## 👩‍💻 About me
 
 <table>
 <tr>
