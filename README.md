@@ -74,5 +74,6 @@
 
 <a href="https://jiyan-0525.github.io"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
 <a href="https://github.com/jiyan-0525"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=0d1117" alt="GitHub" /></a>
+<a href="mailto:jiyanw825@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
 
 </div>
