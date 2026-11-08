@@ -12,13 +12,18 @@
     <text x="32" y="134" fill="#e6edf3">student @ 42 Heilbronn, learning by building</text>
 
     <text x="32" y="192"><tspan fill="#8b949e">$ </tspan>cat interests.txt</text>
-    <text x="32" y="228" fill="#e6edf3">🐧 Linux &amp; terminal lover</text>
-    <text x="32" y="262" fill="#e6edf3">☁️ Shipping with Docker, CI/CD &amp; the cloud</text>
-    <text x="32" y="296" fill="#e6edf3">🤖 Exploring AI with Python</text>
+    <circle cx="40" cy="220" r="6" fill="#00FFA3"/>
+    <text x="60" y="228" fill="#e6edf3">Linux &amp; terminal lover</text>
+    <circle cx="40" cy="254" r="6" fill="#4cc9f0"/>
+    <text x="60" y="262" fill="#e6edf3">Shipping with Docker, CI/CD &amp; the cloud</text>
+    <circle cx="40" cy="288" r="6" fill="#ff8fb1"/>
+    <text x="60" y="296" fill="#e6edf3">Exploring AI with Python</text>
 
     <text x="32" y="354"><tspan fill="#8b949e">$ </tspan>cat mindset.txt</text>
-    <text x="32" y="390" fill="#e6edf3">🌱 Always learning, always building</text>
-    <text x="32" y="424" fill="#e6edf3">📍 Heilbronn, Germany</text>
+    <circle cx="40" cy="382" r="6" fill="#ffbd2e"/>
+    <text x="60" y="390" fill="#e6edf3">Always learning, always building</text>
+    <circle cx="40" cy="416" r="6" fill="#c084fc"/>
+    <text x="60" y="424" fill="#e6edf3">Heilbronn, Germany</text>
 
     <text x="32" y="482"><tspan fill="#8b949e">$ </tspan><tspan>_</tspan></text>
   </g>
