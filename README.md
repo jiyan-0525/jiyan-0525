@@ -23,7 +23,7 @@
 ```typescript
 const jiyan_0525: Developer = {
   name:      "Jiyan Wang",
-  role:      "Frontend or full-stack engineer",
+  role:      "AI full-stack engineer",
   location:  "Heilbronn",
   currently: "building in public",
   stack:     ["C", "HTML", "C++", "Python", "Makefile", "Jupyter Notebook"],
