@@ -4,46 +4,59 @@
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=AI%20full-stack%20engineer;%F0%9F%8E%93%20Student%20at%2042%20Heilbronn;Building%20with%20C%20%C2%B7%20Python%20%C2%B7%20TypeScript;Make%20useful%20things%2C%20then%20make%20them%20delightful%20%F0%9F%9A%80" alt="" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Jiyan+%F0%9F%91%8B;Student+%40+42+Heilbronn;Learning+by+doing" alt="Hi there, I'm Jiyan" /></a>
 
 <br/>
 
-<a href="https://jiyan-0525.github.io"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=jiyan-0525&color=blueviolet&style=flat-square" alt="profile views" />
 
 </div>
 
-<br/>
+---
 
-## 👋 About
+## 🧑‍💻 About me
 
-I'm **Jiyan Wang**, an AI full-stack engineer based in **Heilbronn**, and a student at **42 Heilbronn**. I like building things from the low level up, then making them pleasant to use.
+- 🎓 Student at **42 Heilbronn**, learning by doing
+- 💻 C/C++ · Linux · Docker · Cloud · Python AI
+- 🌱 Always learning, always building
+- 📍 Based in Heilbronn, Germany
 
-- 🛠️ Building in public, one project at a time
-- 🤝 Open to meaningful collaborations and useful products
-- 📍 Heilbronn, Germany
+---
 
-<br/>
+## 🛠 Tech stack
 
-## ⚙️ Stack
+**🐳 DevOps**
 
-<div align="center">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,html,css,jupyter&perline=8&theme=dark" alt="Tech stack" />
+**🤖 AI & backend / databases**
 
-<br/><br/>
+<img src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="PydanticAI" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Uvicorn" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
 
-<img src="https://img.shields.io/badge/C-555555?style=flat-square&labelColor=0d1117" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-f34b7d?style=flat-square&labelColor=0d1117" alt="C++" />
-<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&labelColor=0d1117" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&labelColor=0d1117" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&labelColor=0d1117" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-663399?style=flat-square&labelColor=0d1117" alt="CSS" />
-<img src="https://img.shields.io/badge/Makefile-427819?style=flat-square&labelColor=0d1117" alt="Makefile" />
-<img src="https://img.shields.io/badge/Jupyter_Notebook-DA5B0B?style=flat-square&labelColor=0d1117" alt="Jupyter Notebook" />
+**🐍 Languages**
 
-</div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 
-<br/>
+**🎨 Frontend**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+
+---
 
 ## 🚀 Featured projects
 
@@ -54,7 +67,7 @@ I'm **Jiyan Wang**, an AI full-stack engineer based in **Heilbronn**, and a stud
 | [42Core_minishell](https://github.com/jiyan-0525/42Core_minishell) | 42 project: Unix shell | C |
 | [42core_Inceptions_bonus_DigitalOcean](https://github.com/jiyan-0525/42core_Inceptions_bonus_DigitalOcean) | 42 project: Inception, bonus DigitalOcean deployment | HTML |
 
-<br/>
+---
 
 ## 📊 GitHub stats
 
@@ -68,7 +81,7 @@ I'm **Jiyan Wang**, an AI full-stack engineer based in **Heilbronn**, and a stud
 
 </div>
 
-<br/>
+---
 
 ## 📫 Get in touch
 
@@ -76,9 +89,5 @@ I'm **Jiyan Wang**, an AI full-stack engineer based in **Heilbronn**, and a stud
 
 <a href="https://jiyan-0525.github.io"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
 <a href="https://github.com/jiyan-0525"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=0d1117" alt="GitHub" /></a>
-
-<br/><br/>
-
-***Built with code, AI and a little chaos 😈***
 
 </div>
