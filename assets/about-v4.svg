@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 510" width="760" height="510">
+  <rect width="760" height="510" rx="14" fill="#0d1117"/>
+  <rect width="760" height="44" rx="14" fill="#161b22"/>
+  <rect y="30" width="760" height="14" fill="#161b22"/>
+  <circle cx="26" cy="22" r="7" fill="#ff5f56"/>
+  <circle cx="50" cy="22" r="7" fill="#ffbd2e"/>
+  <circle cx="74" cy="22" r="7" fill="#27c93f"/>
+  <text x="380" y="28" text-anchor="middle" font-family="monospace" font-size="16" fill="#8b949e">about — zsh</text>
+
+  <g font-family="monospace" font-size="24" fill="#00FFA3">
+    <text x="32" y="98"><tspan fill="#8b949e">$ </tspan>whoami</text>
+    <text x="32" y="134" fill="#e6edf3">student @ 42 Heilbronn, learning by building</text>
+
+    <text x="32" y="192"><tspan fill="#8b949e">$ </tspan>cat interests.txt</text>
+    <g>
+      <ellipse cx="44" cy="220" rx="9" ry="11" fill="#1f2937" stroke="#e6edf3" stroke-width="1.5"/>
+      <ellipse cx="44" cy="223" rx="5.5" ry="7.5" fill="#e6edf3"/>
+      <circle cx="41" cy="214" r="1.6" fill="#0d1117"/>
+      <circle cx="47" cy="214" r="1.6" fill="#0d1117"/>
+      <path d="M40 223 L48 223 L44 228 Z" fill="#ffbd2e"/>
+    </g>
+    <text x="68" y="228" fill="#e6edf3">Linux &amp; terminal lover</text>
+    <g>
+      <line x1="44" y1="254" x2="44" y2="249" stroke="#ff8fb1" stroke-width="2"/>
+      <circle cx="44" cy="248" r="2" fill="#ff8fb1"/>
+      <rect x="36" y="254" width="16" height="13" rx="3" fill="#ff8fb1"/>
+      <circle cx="41" cy="260" r="1.8" fill="#0d1117"/>
+      <circle cx="47" cy="260" r="1.8" fill="#0d1117"/>
+    </g>
+    <text x="68" y="262" fill="#e6edf3">Exploring AI with Python</text>
+
+    <text x="32" y="320"><tspan fill="#8b949e">$ </tspan>cat mindset.txt</text>
+    <g fill="#00FFA3">
+      <line x1="44" y1="360" x2="44" y2="344" stroke="#00FFA3" stroke-width="2"/>
+      <path d="M44 347 C 36 347 35 338 40 335 C 44 339 44 344 44 347 Z"/>
+      <path d="M44 343 C 46 333 54 331 57 334 C 55 342 50 346 44 343 Z"/>
+    </g>
+    <text x="68" y="356" fill="#e6edf3">Always learning, always building</text>
+    <g>
+      <path d="M44 398 C 38 390 36 385 36 380 A 8 8 0 1 1 52 380 C 52 385 50 390 44 398 Z" fill="#c084fc"/>
+      <circle cx="44" cy="379" r="3" fill="#0d1117"/>
+    </g>
+    <text x="68" y="390" fill="#e6edf3">Heilbronn, Germany</text>
+
+    <text x="32" y="448"><tspan fill="#8b949e">$ </tspan><tspan>_</tspan></text>
+  </g>
+</svg>
