@@ -1,51 +1,152 @@
-<h1 align="center" style="color: #00F7FF; font-size: 28px;">
-  Hi there, I'm Jiyan 👋
-  <!---<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF¢er=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jiyan+%F0%9F%91%8B;Student+%40+42+Heilbronn" alt="Typing SVG" />--->
-</h1>
-   
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=jiyan-0525&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Heilbronn&v=readme-reference-2" width="100%" alt="Jiyan Wang profile banner" />
+
+<br/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;%F0%9F%8E%93%F0%9F%92%BBStudent%20at%2042%20Heilbronn;Building%20with%20C%20%C2%B7%20HTML%20%C2%B7%20C%2B%2B;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+<br/>
+
+<a href="https://jiyan-0525.github.io"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/11_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="11 followers" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=jiyan-0525&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚡ whoami
+
+```typescript
+const jiyan_0525: Developer = {
+  name:      "Jiyan Wang",
+  role:      "Frontend or full-stack engineer",
+  location:  "Heilbronn",
+  currently: "building in public",
+  stack:     ["C", "HTML", "C++", "Python", "Makefile", "Jupyter Notebook"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
+```
+
+> 🎓💻Student at 42 Heilbronn 
+> 
+> **Collaborations welcome when they are meaningful 🤝**
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=jiyan-0525&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c%2Chtml%2Ccpp%2Cpython%2Cjupyter%2Ctypescript%2Ccss&perline=8&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
+**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+
+<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&amp;labelColor=0d1117" alt="C" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&amp;labelColor=0d1117" alt="C++" /> <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&amp;labelColor=0d1117" alt="Makefile" /> <img src="https://img.shields.io/badge/Jupyter_Notebook-DA5B0B?style=for-the-badge&amp;labelColor=0d1117" alt="Jupyter Notebook" /> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&amp;labelColor=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=jiyan-0525&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🌌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**GoalCoach**
+
+A featured build from this profile.
+
+`Python` · `0 stars`
+
+<a href="https://github.com/jiyan-0525/GoalCoach"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**42core_Inceptions_bonus_DigitalOcean**
+
+A featured build from this profile.
+
+`HTML` · `1 stars`
+
+<a href="https://github.com/jiyan-0525/42core_Inceptions_bonus_DigitalOcean"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**42Core_minishell**
+
+A featured build from this profile.
+
+`C` · `0 stars`
+
+<a href="https://github.com/jiyan-0525/42Core_minishell"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**42core_webserv**
+
+A featured build from this profile.
+
+`C++` · `0 stars`
+
+<a href="https://github.com/jiyan-0525/42core_webserv"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=jiyan-0525&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=jiyan-0525&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
+
+<br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=jiyan-0525&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=jiyan-0525&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jiyan-0525&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=jiyan-0525&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179933266%3Fu%3D273e92ee801b9c9f641b4f4d01dad381812fba5a%26v%3D4" alt="jiyan-0525 heatmap visual" />
 </p>
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=jiyan-0525&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-### 🧑‍💻 About Me
+## 🏆 Beyond the Code
 
-- 🎓 Student at **42 Heilbronn** — learning by Doing
-- 💻 C/C++ · Linux · Docker · Cloud · Python AI
-- 🌱 Always learning, always building
-- 📍 Based in Heilbronn, Germany
+* 🧠 **Profile signal:** 1201 contributions in the last year
+* 🚀 **Builder energy:** 22 public repositories
+* ⭐ **Community signal:** 3 stars across featured work
+* 🗣️ **Open to:** interesting collaborations and useful products
 
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=jiyan-0525&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-### 🛠 Tech Stack
+<div align="center">
 
-| Category | Technologies |
-|---|---|
-| 🐳 **DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <!-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) --> ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) |
-| 🤖 **AI & ⚙️ Backend,Database**| ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-| 🐍 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| 🎨 **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+## 🤝 Let's Build Something Meaningful
 
+I build useful software and enjoy turning ambitious ideas into working products.
 
-<<!-- ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)-->
-<!-- | 📡 **Observability** | ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white) | -->
+<a href="https://jiyan-0525.github.io"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Portfolio" /></a>
 
+<br/><br/>
 
+***⭐ From [Jiyan Wang](https://github.com/jiyan-0525) · built with code, AI & a little chaos 😈***
 
-<!-- ![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white) -->
-<!-- ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)-->
-<!-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) -->
-<!-- ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white) -->
-<!-- ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) -->
-<!-- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) -->
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
- <img src="https://github-readme-streak-stats-eight.vercel.app?user=jiyan-0525&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>
-
-
+</div>
