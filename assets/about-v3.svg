@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect width="760" height="540" rx="14" fill="#0d1117"/>
+  <rect width="760" height="44" rx="14" fill="#161b22"/>
+  <rect y="30" width="760" height="14" fill="#161b22"/>
+  <circle cx="26" cy="22" r="7" fill="#ff5f56"/>
+  <circle cx="50" cy="22" r="7" fill="#ffbd2e"/>
+  <circle cx="74" cy="22" r="7" fill="#27c93f"/>
+  <text x="380" y="28" text-anchor="middle" font-family="monospace" font-size="16" fill="#8b949e">about — zsh</text>
+
+  <g font-family="monospace" font-size="24" fill="#00FFA3">
+    <text x="32" y="98"><tspan fill="#8b949e">$ </tspan>whoami</text>
+    <text x="32" y="134" fill="#e6edf3">student @ 42 Heilbronn, learning by building</text>
+
+    <text x="32" y="192"><tspan fill="#8b949e">$ </tspan>cat interests.txt</text>
+    <g>
+      <ellipse cx="44" cy="220" rx="9" ry="11" fill="#1f2937" stroke="#e6edf3" stroke-width="1.5"/>
+      <ellipse cx="44" cy="223" rx="5.5" ry="7.5" fill="#e6edf3"/>
+      <circle cx="41" cy="214" r="1.6" fill="#0d1117"/>
+      <circle cx="47" cy="214" r="1.6" fill="#0d1117"/>
+      <path d="M40 223 L48 223 L44 228 Z" fill="#ffbd2e"/>
+    </g>
+    <text x="68" y="228" fill="#e6edf3">Linux &amp; terminal lover</text>
+    <g fill="#4cc9f0">
+      <circle cx="40" cy="256" r="6"/>
+      <circle cx="48" cy="252" r="8"/>
+      <circle cx="56" cy="257" r="6"/>
+      <rect x="40" y="256" width="16" height="7" rx="3"/>
+    </g>
+    <text x="68" y="262" fill="#e6edf3">Shipping with Docker, CI/CD &amp; the cloud</text>
+    <g>
+      <line x1="44" y1="282" x2="44" y2="277" stroke="#ff8fb1" stroke-width="2"/>
+      <circle cx="44" cy="276" r="2" fill="#ff8fb1"/>
+      <rect x="36" y="282" width="16" height="13" rx="3" fill="#ff8fb1"/>
+      <circle cx="41" cy="288" r="1.8" fill="#0d1117"/>
+      <circle cx="47" cy="288" r="1.8" fill="#0d1117"/>
+    </g>
+    <text x="68" y="296" fill="#e6edf3">Exploring AI with Python</text>
+
+    <text x="32" y="354"><tspan fill="#8b949e">$ </tspan>cat mindset.txt</text>
+    <g fill="#00FFA3">
+      <line x1="44" y1="394" x2="44" y2="378" stroke="#00FFA3" stroke-width="2"/>
+      <path d="M44 381 C 36 381 35 372 40 369 C 44 373 44 378 44 381 Z"/>
+      <path d="M44 377 C 46 367 54 365 57 368 C 55 376 50 380 44 377 Z"/>
+    </g>
+    <text x="68" y="390" fill="#e6edf3">Always learning, always building</text>
+    <g>
+      <path d="M44 432 C 38 424 36 419 36 414 A 8 8 0 1 1 52 414 C 52 419 50 424 44 432 Z" fill="#c084fc"/>
+      <circle cx="44" cy="413" r="3" fill="#0d1117"/>
+    </g>
+    <text x="68" y="424" fill="#e6edf3">Heilbronn, Germany</text>
+
+    <text x="32" y="482"><tspan fill="#8b949e">$ </tspan><tspan>_</tspan></text>
+  </g>
+</svg>
