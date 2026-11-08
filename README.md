@@ -21,7 +21,7 @@
 </p>
 
 <!-- Text version of the terminal image above. If the image gets stale, delete the <p> image block and keep this text. -->
-
+<!--
 ```bash
 $ whoami
 student @ 42 Heilbronn, learning by building
@@ -35,7 +35,7 @@ $ cat mindset.txt
 🌱 Always learning, always building
 📍 Heilbronn, Germany
 ```
-
+-->
 ---
 
 ## 🛠 Tech stack
@@ -62,7 +62,7 @@ $ cat mindset.txt
 
 | Project | What it is | Language |
 |---|---|---|
-| [GoalCoach](https://github.com/jiyan-0525/GoalCoach) | Adaptive AI coach for learning Chinese (forked) | Python |
+| [GoalCoach](https://github.com/jiyan-0525/GoalCoach) | Adaptive AI coach for learning Chinese | Python |
 | [42core_webserv](https://github.com/jiyan-0525/42core_webserv) | 42 project: HTTP web server | C++ |
 | [42Core_minishell](https://github.com/jiyan-0525/42Core_minishell) | 42 project: Unix shell | C |
 | [42core_Inceptions_bonus_DigitalOcean](https://github.com/jiyan-0525/42core_Inceptions_bonus_DigitalOcean) | 42 project: Inception, bonus DigitalOcean deployment | HTML |
