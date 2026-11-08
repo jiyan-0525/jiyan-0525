@@ -16,11 +16,19 @@
 
 ## 🧑‍💻 About me
 
-<div align="center">
+```bash
+$ whoami
+student @ 42 Heilbronn, learning by building
 
-<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=30&pause=900&color=00FFA3&center=false&vCenter=true&width=760&height=50&lines=%F0%9F%8E%93%20Student%20at%2042%20Heilbronn,%20learning%20by%20building;%F0%9F%90%A7%20Linux%20&%20terminal%20lover;%E2%98%81%EF%B8%8F%20Shipping%20with%20Docker,%20CI%2FCD%20&%20the%20cloud;%F0%9F%A4%96%20Exploring%20AI%20with%20Python;%F0%9F%8C%B1%20Always%20learning,%20always%20building;%F0%9F%93%8D%20Heilbronn,%20Germany" alt="About me: student at 42 Heilbronn, Linux and terminal lover, shipping with Docker and the cloud, exploring AI with Python, always learning, based in Heilbronn" />
+$ cat interests.txt
+🐧 Linux & terminal lover
+☁️  Shipping with Docker, CI/CD & the cloud
+🤖 Exploring AI with Python
 
-</div>
+$ cat mindset.txt
+🌱 Always learning, always building
+📍 Heilbronn, Germany
+```
 
 ---
 
