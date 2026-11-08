@@ -16,15 +16,6 @@
 
 ## 👩‍💻 About me
 
-<table>
-<tr>
-<td width="260" align="center" valign="middle">
-
-<img src="assets/avatar.svg" width="240" alt="Illustrated avatar of Jiyan" />
-
-</td>
-<td valign="middle">
-
 ```bash
 $ whoami
 student @ 42 Heilbronn, learning by building
@@ -38,10 +29,6 @@ $ cat mindset.txt
 🌱 Always learning, always building
 📍 Heilbronn, Germany
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
