@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=jiyan-0525&theme=neon&role=AI%20full-stack%20engineer&location=Heilbronn&v=readme-reference-2" width="100%" alt="Jiyan Wang profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=jiyan-0525&theme=neon&role=AI%20full-stack%20engineer&location=Heilbronn&v=readme-reference-2" width="720" alt="Jiyan Wang profile banner" />
 
 <br/>
 
