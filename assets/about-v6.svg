@@ -1,11 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
-  <rect width="800" height="600" rx="14" fill="#0d1117"/>
-  <rect width="800" height="44" rx="14" fill="#161b22"/>
-  <rect y="30" width="800" height="14" fill="#161b22"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 540" width="600" height="540">
+  <style>
+    @media (prefers-color-scheme: light) {
+      rect[fill="#0d1117"] { fill: #ffffff; }
+      rect[fill="#161b22"] { fill: #f6f8fa; }
+      text[fill="#e6edf3"] { fill: #24292f; }
+      text[fill="#8b949e"] { fill: #57606a; }
+      text[fill="#00FFA3"] { fill: #1a7f37; }
+      ellipse[stroke="#e6edf3"] { stroke: #24292f; }
+      ellipse[fill="#e6edf3"] { fill: #24292f; }
+      circle[fill="#0d1117"] { fill: #ffffff; }
+      line[stroke="#00FFA3"] { stroke: #1a7f37; }
+      path[fill="#00FFA3"] { fill: #1a7f37; }
+    }
+  </style>
+  <rect width="600" height="540" rx="14" fill="#0d1117"/>
+  <rect width="600" height="44" rx="14" fill="#161b22"/>
+  <rect y="30" width="600" height="14" fill="#161b22"/>
   <circle cx="26" cy="22" r="7" fill="#ff5f56"/>
   <circle cx="50" cy="22" r="7" fill="#ffbd2e"/>
   <circle cx="74" cy="22" r="7" fill="#27c93f"/>
-  <text x="400" y="28" text-anchor="middle" font-family="monospace" font-size="16" fill="#8b949e">about — zsh</text>
+  <text x="300" y="28" text-anchor="middle" font-family="monospace" font-size="16" fill="#8b949e">about — zsh</text>
 
   <g font-family="monospace" font-size="24" fill="#00FFA3">
     <text x="32" y="98"><tspan fill="#8b949e">$ </tspan>whoami</text>
