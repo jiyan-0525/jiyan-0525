@@ -18,7 +18,7 @@
 ## 👩‍💻 About me
 
  <p align="center">
-  <img src="assets/about-v6.svg" width="70%" alt="Terminal window: whoami — student at 42 Heilbronn,
+  <img src="assets/about-v7.svg" width="70%" alt="Terminal window: whoami — student at 42 Heilbronn,
   learning by building. Interests: Linux and terminal, shipping with Docker, CI/CD and the cloud, exploring AI with Python. Mindset: always learning, always building. Based in Heilbronn, Germany." />
 </p>
 

@@ -23,7 +23,7 @@
 
   <g font-family="monospace" font-size="24" fill="#00FFA3">
     <text x="32" y="98"><tspan fill="#8b949e">$ </tspan>whoami</text>
-    <text x="32" y="134" fill="#e6edf3">student @ 42 Heilbronn,<tspan x="32" dy="44">learning by building</tspan></text>
+    <text x="32" y="134" fill="#e6edf3">student @ 42 Heilbronn,<tspan x="32" dy="30">learning by building</tspan></text>
 
     <text x="32" y="236"><tspan fill="#8b949e">$ </tspan>cat interests.txt</text>
     <g>
