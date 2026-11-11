@@ -17,12 +17,13 @@
 
 ## 👩‍💻 About me
 
-<!-- <p align="center">
+ <p align="center">
   <img src="assets/about-v6.svg" width="70%" alt="Terminal window: whoami — student at 42 Heilbronn,
   learning by building. Interests: Linux and terminal, shipping with Docker, CI/CD and the cloud, exploring AI with Python. Mindset: always learning, always building. Based in Heilbronn, Germany." />
-</p> -->
+</p>
 
 <!-- Text version of the terminal image above. If the image gets stale, delete the <p> image block and keep this text. -->
+<!--
 ```bash
 $ whoami
 student @ 42 Heilbronn,
@@ -37,6 +38,7 @@ $ cat mindset.txt
 🌱 Always learning, always building
 📍 Heilbronn, Germany
 ```
+-->
 ---
 
 ## 🛠 Tech stack
