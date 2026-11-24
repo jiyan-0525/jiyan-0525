@@ -19,7 +19,7 @@
 
  <p align="center">
   <img src="assets/about-v8.svg" width="70%" alt="Terminal window: whoami — student at 42 Heilbronn,
-  learning by building. Interests: Linux and terminal, shipping with Docker, CI/CD and the cloud, exploring AI with Python. Mindset: always learning, always building. Based in Heilbronn, Germany." />
+  learning by building. Interests: Linux and terminal, CI/CD and the cloud, exploring AI with Python. Mindset: always learning, always building. Based in Heilbronn, Germany." />
 </p>
 
 <!-- Text version of the terminal image above. If the image gets stale, delete the <p> image block and keep this text. -->
@@ -31,7 +31,7 @@ learning by building
 
 $ cat interests.txt
 🐧 Linux & terminal lover
-☁️ Docker, CI/CD & the cloud
+☁️ CI/CD & the cloud
 🤖 Exploring AI with Python
 
 $ cat mindset.txt
@@ -45,30 +45,36 @@ $ cat mindset.txt
 
 **🐳 DevOps**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**🤖 AI & backend / databases**
+**🤖 AI & backend**
 
-![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-**🐍 Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 **🎨 Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**🐍 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**🗄 Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ## 🚀 Featured projects
 
-| Project | What it is | Language |
-|---|---|---|
-| [GoalCoach](https://github.com/jiyan-0525/GoalCoach) | Adaptive AI coach for learning Chinese | Python |
-| [42core_webserv](https://github.com/jiyan-0525/42core_webserv) | 42 project: HTTP web server | C++ |
-| [42Core_minishell](https://github.com/jiyan-0525/42Core_minishell) | 42 project: Unix shell | C |
-| [42core_Inceptions_bonus_DigitalOcean](https://github.com/jiyan-0525/42core_Inceptions_bonus_DigitalOcean) | 42 project: Inception, bonus DigitalOcean deployment | YAML · Bash |
+| Project | What it is | Stack | Origin |
+|---|---|---|---|
+| [ft_transcendence](https://github.com/jiyan-0525/ft_transcendence) | Team-built community platform: accounts, feed, friends, events | React 19 · TypeScript · FastAPI · PostgreSQL | 42 Heilbronn |
+| [JobPilot](https://github.com/jiyan-0525/JobPilot) | AI career copilot: resume parsing, job matching, interview prep | Python · Groq · Streamlit | Personal |
+| [GoalCoach](https://github.com/jiyan-0525/GoalCoach) | Adaptive agentic coach for learning Chinese | Python · PydanticAI · FastAPI | Arkadia Heilbronn |
+| [Inception · DigitalOcean](https://github.com/jiyan-0525/42core_Inceptions_bonus_DigitalOcean) | Multi-container WordPress stack with HTTPS, secrets and volumes | Docker · Nginx · MariaDB | 42 Heilbronn |
+| [42core_webserv](https://github.com/jiyan-0525/42core_webserv) | HTTP/1.1 server built from scratch | C++ | 42 Heilbronn |
+| [42Core_minishell](https://github.com/jiyan-0525/42Core_minishell) | Unix shell with pipes, redirections and builtins | C | 42 Heilbronn |
 
 ---
 
